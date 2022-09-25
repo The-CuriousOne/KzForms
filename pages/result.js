@@ -46,7 +46,7 @@ const Result = () => {
                 </div>
                 <div className="srm-mail-id">
                     <label htmlFor="srm-email" className="form-label">
-                        SRMIST Email Id:<label className="form-label">{query.branch}</label>
+                        SRMIST Email Id:<label className="form-label">{query.srmid}</label>
                     </label>
                 </div>
                 <div className="github">
